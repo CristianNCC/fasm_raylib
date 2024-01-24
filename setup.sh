@@ -1,4 +1,4 @@
-# install fasm, take care, might install x86 binary even on x64 systems
+# install fasm
 sudo apt-get install fasm
 
 # install raylib dependencies
